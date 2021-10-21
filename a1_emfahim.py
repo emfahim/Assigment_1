@@ -9,7 +9,7 @@
 OPS435 Assignment 1 - Winter 2021
 Program: a1_[Seneca_name].py (replace [Seneca_name] with your Seneca User name)
 Author: "Esrak Fahim"
-The python code in this file (a1_[Seneca_name].py) is original work written by
+The python code in this file (a1_emfahim.py) is original work written by
 "Esrak Fahim". No code in this file is copied from any other source
 except those provided by the course instructor, including any person,
 textbook, or on-line resource. I have not shared this python script
