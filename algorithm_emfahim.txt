@@ -1,0 +1,23 @@
+Algorithm for Assignment 1 - first iteration - By Esrak Fahim
+[Note: Do not submit this as your own for Checkpoint 1]
+
+(1) I use def leap_yeear(obj). It will take a year in 4-digit 'YYYY' format.
+    It will return True if given year is a leap year
+
+(2) The sanitize(obj1, obj2) function will take two string objects
+    The first string object is the object to be sanitized,
+    and the 2nd string object contains characters that are allowed.
+
+(3) The size_check(obj, introbj) function will take a collection data type
+    object and the expected number of items as an integer in this order and
+    it will return 'True' or 'False' after it is called.
+
+(4) The range_check(obj2, obj2) function will take an integer
+    object (e.g. year) and a tuple with 2 integer values respectively.
+    Regarding tuples, the first value indicates the lower bound and
+    the second one indicates the upper bound of an integer range.
+
+(5) The usage() function will be called (and displayed to the standard input)
+    when the command line arguments are not equal to 2.
+
+(6) I use the (if __name__ == "__main__":) part from the assignmnet instraction and for the final part.
